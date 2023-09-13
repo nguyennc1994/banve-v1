@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.about {
+  background-color: #fff;
+  background-image: url('../image/home/s1.png');
+  background-position: center;
+  background-size: cover;
+  padding-right: 100px !important;
+}
+.about .about-text h2 {
+  font-family: Qwigley;
+  font-size: 80px;
+}
+.about .about-text h3 {
+  font-size: 40px;
+  font-weight: 600;
+}
+.about .about-text p {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  font-weight: 400;
+}
+.about .about-button button {
+  text-transform: uppercase;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+}
+.about .about-button button:first-child {
+  padding: 14px 38px;
+  background-color: #f89345;
+  border-radius: 5px;
+}
+.about .about-button button:nth-child(2) {
+  padding: 14px 28px;
+  background-color: #ac3501;
+  border-radius: 5px;
+  margin-left: 32px;
+}

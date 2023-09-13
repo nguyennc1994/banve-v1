@@ -1,0 +1,74 @@
+{
+  "dataShow": [
+    {
+      "showID": "1",
+      "type": 1,
+      "price": 300000,
+      "urlImage": "../src/assets/image/booking/1.png",
+      "name": "FULL SHOW 1: XEM BIỂU DIỄN ABCABC + VÉ THAM QUAN VĂN MIẾU ĐÊM",
+      "detail": [
+        {
+          "date": "11/09/2023",
+          "time": [
+            {
+              "name": "data",
+              "time": "20:00 - 20:30"
+            },
+            {
+              "name": "data2",
+              "time": "21:30 - 22:00"
+            }
+          ]
+        },
+        {
+          "date": "12/09/2023",
+          "time": [
+            {
+              "name": "data",
+              "time": "20:00 - 20:30"
+            },
+            {
+              "name": "data2",
+              "time": "21:30 - 22:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "showID": "2",
+      "type": 0,
+      "price": 50000,
+      "urlImage": "../src/assets/image/booking/2.png",
+      "name": "VÉ THAM QUAN VĂN MIẾU ĐÊM",
+      "detail": [
+        {
+          "date": "11/09/2023",
+          "time": [
+            {
+              "name": "data",
+              "time": "20:00 - 20:30"
+            },
+            {
+              "name": "data2",
+              "time": "21:30 - 22:00"
+            }
+          ]
+        },
+        {
+          "date": "12/09/2023",
+          "time": [
+            {
+              "name": "data",
+              "time": "20:00 - 20:30"
+            },
+            {
+              "name": "data2",
+              "time": "21:30 - 22:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
